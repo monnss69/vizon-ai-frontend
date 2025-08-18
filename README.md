@@ -6,7 +6,7 @@ A basic Next.js 15 project with common folders and examples to help you get star
 
 ```
 app/            # Route handlers and pages
-components/     # Reusable UI components
+components/     # UI components
 contexts/       # React context providers
 hooks/          # Custom React hooks
 lib/            # Redux store and other libraries
